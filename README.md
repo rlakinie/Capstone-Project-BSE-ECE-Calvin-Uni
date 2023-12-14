@@ -1,2 +1,1 @@
-The overall project that this team is working on is our senior design project, which is the development of a self-sorting recycling system using a conveyor belt system and computer vision. A camera mounnt on the conveyor belt system detects the kind of nrecyling product, and sends feedback to actuators on the belt system via PLC controllers, which sourts the product into its appropriate recycling bin.
 
